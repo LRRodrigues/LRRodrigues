@@ -65,7 +65,7 @@ Olá! Sou Lucas, um profissional de **Perícia Forense Digital e Resposta a Inci
 <p align="center">
   Conecte-se para discutir projetos, consultoria ou para trocar informações sobre a área de cibersegurança.
   <br><br>
-  <a href="mailto:[lukaotech@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/lucas-dos-reis-rodrigues-ccna-cyberops-associate-network-security-bb26a51b8]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lukaotech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/lucas-dos-reis-rodrigues-ccna-cyberops-associate-network-security-bb26a51b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://[SEU_BLOG_OU_SITE].com/"><img src="https://img.shields.io/badge/Blog/Site-00A7A7?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog ou Site Pessoal"></a>
 </p>
