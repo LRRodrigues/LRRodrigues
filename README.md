@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Cys-Cyber/Cys-Cyber/main/banner.gif" alt="Banner de Perícia Forense Digital e Cibersegurança"/>
 </p>
 
-# **Dossiê de Investigador Digital: [SEU NOME COMPLETO AQUI]**
+# **Dossiê de Investigador Digital: Lucas dos Reis Rodrigues**
 
 <p align="center">
   <em>"A verdade reside nos dados. Todas as outras alegações requerem evidências."</em>
@@ -12,7 +12,7 @@
 
 ### `[ STATUS DA MISSÃO: Ativo ]`
 
-Olá! Sou **[Seu Nome]**, um profissional de **Perícia Forense Digital e Resposta a Incidentes**. Minha especialidade é transformar o caos de um incidente de segurança em uma narrativa clara e baseada em evidências. Atuo na linha de frente da cibersegurança, analisando artefatos digitais para descobrir a origem, o método e o impacto de atividades maliciosas.
+Olá! Sou Lucas, um profissional de **Perícia Forense Digital e Resposta a Incidentes**. Minha especialidade é transformar o caos de um incidente de segurança em uma narrativa clara e baseada em evidências. Atuo na linha de frente da cibersegurança, analisando artefatos digitais para descobrir a origem, o método e o impacto de atividades maliciosas.
 
 - 🔭 **Foco Atual:** [Ex: Análise de malware em sistemas Linux / Automação de playbooks de resposta a incidentes].
 - 🌱 **Aprendendo:** [Ex: Engenharia Reversa de aplicativos móveis / Forense em ambientes de nuvem (AWS/Azure)].
@@ -54,8 +54,8 @@ Olá! Sou **[Seu Nome]**, um profissional de **Perícia Forense Digital e Respos
 ### `[ REGISTROS DE ATIVIDADE (ESTATÍSTICAS DA ESTAÇÃO) ]`
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=[SEU USUÁRIO DO GITHUB]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Estatísticas do GitHub"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU USUÁRIO DO GITHUB]&layout=compact&langs_count=8&theme=transparent&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Linguagens mais usadas"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=[LRRodrigues]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Estatísticas do GitHub"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LRRodrigues]&layout=compact&langs_count=8&theme=transparent&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Linguagens mais usadas"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Olá! Sou **[Seu Nome]**, um profissional de **Perícia Forense Digital e Respos
 <p align="center">
   Conecte-se para discutir projetos, consultoria ou para trocar informações sobre a área de cibersegurança.
   <br><br>
-  <a href="mailto:[SEU_EMAIL_AQUI]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/[SEU_PERFIL_LINKEDIN]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[lukaotech@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/lucas-dos-reis-rodrigues-ccna-cyberops-associate-network-security-bb26a51b8]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://[SEU_BLOG_OU_SITE].com/"><img src="https://img.shields.io/badge/Blog/Site-00A7A7?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog ou Site Pessoal"></a>
 </p>
