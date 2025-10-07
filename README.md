@@ -54,8 +54,8 @@ Olá! Sou Lucas, um profissional de **Perícia Forense Digital e Resposta a Inci
 ### `[ REGISTROS DE ATIVIDADE (ESTATÍSTICAS DA ESTAÇÃO) ]`
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=[LRRodrigues]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Estatísticas do GitHub"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LRRodrigues]&layout=compact&langs_count=8&theme=transparent&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Linguagens mais usadas"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LRRodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Estatísticas do GitHub"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRRodrigues&layout=compact&langs_count=8&theme=transparent&title_color=00A7A7&icon_color=00A7A7&text_color=E0E0E0&bg_color=0D1117" alt="Linguagens mais usadas"/>
 </p>
 
 ---
